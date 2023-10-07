@@ -27,4 +27,4 @@ This repository contains the tasks that I completed while working as an intern f
 5. Dataset link :https://bit.ly/3i4rbWl
 6. Create storyboards. Screen record along with your audio explaining the charts and interpretations.
 
-#### I designed an interactive dashboard for 'Sample Super Store' using Power BI and created compelling visualizations in Python using the Pandas library.
+- I designed an interactive dashboard for 'Sample Super Store' using Power BI and created compelling visualizations in Python using the Pandas library.
