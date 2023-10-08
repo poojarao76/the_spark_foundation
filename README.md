@@ -34,3 +34,5 @@ This repository contains the tasks that I completed while working as an intern f
 1. Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’
 2. Data can be found here at https://drive.google.com/file/d/1luTU7xBvI7QAGPbQMxEHcgKUi9d6UeP_/view
 3. As a security/defense analyst, try to find out the hot zone of terrorism. What all security issues and insights you can derive by EDA?
+4. You can choose any of the tool of your choice (Python/R/Tableau/PowerBI/Excel)
+5. Create storyboards. Screen record along with your audio explaining the charts and interpretations.
