@@ -29,7 +29,7 @@ This repository contains the tasks that I completed while working as an intern f
 
 - I designed an interactive dashboard for 'Sample Super Store' using Power BI and created compelling visualizations in Python using the Pandas library.
 
-# Task-3 : Exploratory Data Analytics - Terrorism  (Level - Intermediate)
+# Task-4 : Exploratory Data Analytics - Terrorism  (Level - Intermediate)
 
 1. Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’
 2. Data can be found here at https://drive.google.com/file/d/1luTU7xBvI7QAGPbQMxEHcgKUi9d6UeP_/view
