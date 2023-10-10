@@ -4,6 +4,8 @@ This repository contains the tasks that I completed while working as an intern f
 
 # Task-1 : Prediction using Supervised ML (Level - Beginner)
 
+Youtube link: https://youtu.be/lB4wvJ46tV0
+
 1. Predict the percentage of marks of an student based on the number of study hours.
 2. This is a simple linear regression task as it involves just 2 variables.
 3. Data can be found at http://bit.ly/w
@@ -13,12 +15,14 @@ This repository contains the tasks that I completed while working as an intern f
 
 # Task-2 : Prediction using Unsupervised ML (Level - Beginner)
 
+Youtube link: https://youtu.be/WxljouCS_zM
+
 1. From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 2. Use R or Python or perform this task.
 3. Data can be found at https://bit.ly/3cGyP8j
 
 
-# Task-3 : To Explore Business Analytics (Level - Beginner & Intermediate)
+# Task-3 : Exploratory Data Analytics - Retail (Level - Beginner & Intermediate)
 
 1. Perform ‘Exploratory Data Analysis’ on the provided dataset ‘SampleSuperstore’
 2. As a business manager, try to find out the weak areas where you can work to make more profit.
@@ -27,4 +31,12 @@ This repository contains the tasks that I completed while working as an intern f
 5. Dataset link :https://bit.ly/3i4rbWl
 6. Create storyboards. Screen record along with your audio explaining the charts and interpretations.
 
-#### I designed an interactive dashboard for 'Sample Super Store' using Power BI and created compelling visualizations in Python using the Pandas library.
+- I designed an interactive dashboard for 'Sample Super Store' using Power BI and created compelling visualizations in Python using the Pandas library.
+
+# Task-4 : Exploratory Data Analytics - Terrorism  (Level - Intermediate)
+
+1. Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’
+2. Data can be found here at https://drive.google.com/file/d/1luTU7xBvI7QAGPbQMxEHcgKUi9d6UeP_/view
+3. As a security/defense analyst, try to find out the hot zone of terrorism. What all security issues and insights you can derive by EDA?
+4. You can choose any of the tool of your choice (Python/R/Tableau/PowerBI/Excel)
+5. Create storyboards. Screen record along with your audio explaining the charts and interpretations.
