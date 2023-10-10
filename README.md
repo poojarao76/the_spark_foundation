@@ -24,6 +24,8 @@ Youtube link: https://youtu.be/WxljouCS_zM
 
 # Task-3 : Exploratory Data Analytics - Retail (Level - Beginner & Intermediate)
 
+Youtube link: https://youtu.be/G-7jLgVROq0
+
 1. Perform ‘Exploratory Data Analysis’ on the provided dataset ‘SampleSuperstore’
 2. As a business manager, try to find out the weak areas where you can work to make more profit.
 3. What all business problems you can derive by exploring the data?
