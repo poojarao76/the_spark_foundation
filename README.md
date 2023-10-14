@@ -24,6 +24,8 @@ Youtube link: https://youtu.be/WxljouCS_zM
 
 # Task-3 : Exploratory Data Analytics - Retail (Level - Beginner & Intermediate)
 
+Youtube link: https://youtu.be/G-7jLgVROq0
+
 1. Perform ‘Exploratory Data Analysis’ on the provided dataset ‘SampleSuperstore’
 2. As a business manager, try to find out the weak areas where you can work to make more profit.
 3. What all business problems you can derive by exploring the data?
@@ -40,3 +42,6 @@ Youtube link: https://youtu.be/WxljouCS_zM
 3. As a security/defense analyst, try to find out the hot zone of terrorism. What all security issues and insights you can derive by EDA?
 4. You can choose any of the tool of your choice (Python/R/Tableau/PowerBI/Excel)
 5. Create storyboards. Screen record along with your audio explaining the charts and interpretations.
+
+
+- 
