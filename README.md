@@ -1,6 +1,6 @@
 # the_spark_foundation
 
-# Task-1 : Exploratory Data Analytics - Retail (Level - Beginner & Intermediate)
+# Task-3 : Exploratory Data Analytics - Retail (Level - Beginner & Intermediate)
 
 1. Perform ‘Exploratory Data Analysis’ on the provided dataset ‘SampleSuperstore’
 2. As a business manager, try to find out the weak areas where you can work to make more profit.
